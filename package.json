@@ -1,0 +1,8 @@
+{
+  "name": "fullStackResponsive",
+  "author": "Tom Barker",
+  "description": "A server-side responsive framework",
+  "version": "0.0.1",
+  "engine": "0.6.x",
+  "main": "engine.js"
+}
